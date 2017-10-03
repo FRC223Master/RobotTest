@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+adaw
+A
+bITCHwefsefsefsefsef:d:
+=======
+public Triggers
+{
+	public static void main(String [])
+	{
+		System.out.println("Hello");
+	}
+}
+
+>>>>>>> stuff
